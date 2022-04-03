@@ -1,0 +1,1463 @@
+{
+    "lens_id": "",
+    "document_id": "3en-5qAwHLl4CMuFXKfi",
+    "original_document_id": "3en-5qAwHLl4CMuFXKfi",
+    "version": "23",
+    "lastChanged": "1587026440023",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Default Textures",
+                        "Base"
+                    ],
+                    [
+                        "Default Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Default Textures",
+                        "Normal"
+                    ],
+                    [
+                        "Default Textures",
+                        "Render Target"
+                    ],
+                    [
+                        "Default Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Default Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Default Textures",
+                        "empty"
+                    ],
+                    [
+                        "Default Textures",
+                        "white"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "heart"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "old_paper_post_effect"
+                    ],
+                    [
+                        "Example Textures [REMOVE_ME]",
+                        "space_background"
+                    ],
+                    [
+                        "Materials",
+                        "BackgroundMat"
+                    ],
+                    [
+                        "Materials",
+                        "FillMat"
+                    ],
+                    [
+                        "Materials",
+                        "Oil Paint"
+                    ],
+                    [
+                        "Materials",
+                        "Spectacles Depth"
+                    ],
+                    [
+                        "Materials",
+                        "TileMat"
+                    ],
+                    [
+                        "Materials",
+                        "TileScrollingMat"
+                    ],
+                    [
+                        "Materials",
+                        "kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "SegmentationController"
+                    ],
+                    [
+                        "Segmentation Texture [EDIT_ME]"
+                    ],
+                    [
+                        "WhatsApp Audio 2020-04-16 at 12"
+                    ],
+                    [
+                        "kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1535646970796949:39027",
+                    "1536701119471735:10008",
+                    "1536862674133465:250556"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "99f9a381c242ecdea9ac64d1cb856022",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Go Corona Go",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 6.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 2.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1535646852378068:26367",
+                    "1535646895691475:34049",
+                    "1535647365001278:49935",
+                    "1538416820229899:10396",
+                    "1587022571898425:11994",
+                    "1587022639221393:15660",
+                    "1587022738944872:20267",
+                    "1587022924425072:22892",
+                    "1587023312232140:24384",
+                    "1587023377496287:26606",
+                    "1587023419998691:28338",
+                    "1587023773247766:30531",
+                    "1587023976824980:36420"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1534543033794497:2027",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1534543284768020:20801",
+                    "name": "\/Resources\/Resource22.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1534548413451520:38273",
+                    "name": "\/Resources\/Resource30.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1536692380004191:12977",
+                    "name": "\/Resources\/Resource76.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1536693201317919:71139",
+                    "name": "\/Resources\/Resource81.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1536693201320484:71151",
+                    "name": "\/Resources\/Resource82.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1536693201323863:71163",
+                    "name": "\/Resources\/Resource83.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1536694566851597:18126",
+                    "name": "\/Resources\/Resource93.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "132",
+                    "uid": "1536866643977081:319832",
+                    "name": "\/Resources\/Resource132.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "157",
+                    "uid": "1539126337825344:3581",
+                    "name": "\/Resources\/Resource157",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "158",
+                    "uid": "1539126341853514:3608",
+                    "name": "\/Resources\/Resource158",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "159",
+                    "uid": "1539126346682103:3631",
+                    "name": "\/Resources\/Resource159",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1539126348212916:3665",
+                    "name": "\/Resources\/Resource160",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "161",
+                    "uid": "1564444797948882:5329",
+                    "name": "Files\/File20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "162",
+                    "uid": "1571785356605059:504223",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "163",
+                    "uid": "1587022215637181:8789",
+                    "name": "Files\/File31.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "165",
+                    "uid": "1587022681639244:17867",
+                    "name": "Files\/File34",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "166",
+                    "uid": "1587023345186520:25452",
+                    "name": "Files\/File36.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "168",
+                    "uid": "1587023408100922:27742",
+                    "name": "Files\/File40",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "169",
+                    "uid": "1587023478053981:29973",
+                    "name": "Files\/File42.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1553532199828098:37383",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1553532228676220:51624",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1534543033789355:1942",
+                "4": "1534543296305691:21549",
+                "5": "1534788990696967:152078",
+                "6": "1535646970796949:39027",
+                "7": "1536701119471735:10008",
+                "8": "1536701119471971:10011",
+                "9": "1536701811084472:40910",
+                "10": "1538416820229714:10393",
+                "11": "1538416820229899:10396",
+                "12": "1553532199827453:37377",
+                "13": "1553532228652184:51235",
+                "14": "1587022107317971:8170",
+                "15": "1587022571898425:11994",
+                "16": "1587023976824532:36419",
+                "17": "1587023976824980:36420"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "6",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "4",
+                    "layerName": "Masked",
+                    "layerMask": "4",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "5",
+                    "layerName": "Orthographic Masked",
+                    "layerMask": "2",
+                    "colorCode": "1"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.png"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.png"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.png"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.png"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.png"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.lsmat"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.lsmat"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.lsmat"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.lsmat"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.lsmat"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.lsmat"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.lsmat"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.mp3"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.png"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.png"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.png"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.png"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Example Textures [REMOVE_ME]"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Example Textures [REMOVE_ME]\/space_background.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Example Textures [REMOVE_ME]\/heart.png"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "6",
+                        "v": "Materials\/TileMat.lsmat"
+                    },
+                    {
+                        "k": "7",
+                        "v": "Materials\/TileScrollingMat.lsmat"
+                    },
+                    {
+                        "k": "8",
+                        "v": "Materials\/FillMat.lsmat"
+                    },
+                    {
+                        "k": "9",
+                        "v": "Materials\/BackgroundMat.lsmat"
+                    },
+                    {
+                        "k": "10",
+                        "v": "Default Textures"
+                    },
+                    {
+                        "k": "11",
+                        "v": "Default Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "12",
+                        "v": "Default Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "13",
+                        "v": "Default Textures\/empty.png"
+                    },
+                    {
+                        "k": "14",
+                        "v": "Default Textures\/Base.png"
+                    },
+                    {
+                        "k": "15",
+                        "v": "Default Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Default Textures\/Normal.png"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Default Textures\/white.png"
+                    },
+                    {
+                        "k": "18",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "19",
+                        "v": "Scripts\/SegmentationController.js"
+                    },
+                    {
+                        "k": "21",
+                        "v": "Example Textures [REMOVE_ME]\/old_paper_post_effect.png"
+                    },
+                    {
+                        "k": "22",
+                        "v": "WhatsApp Audio 2020-04-16 at 12.mp3"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Materials\/Spectacles Depth.lsmat"
+                    },
+                    {
+                        "k": "25",
+                        "v": "kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760.png"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Materials\/Oil Paint.lsmat"
+                    },
+                    {
+                        "k": "28",
+                        "v": "Materials\/kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760.png"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "87daba2e83cda8b89532e73ab3b19542"
+                    },
+                    {
+                        "k": "3",
+                        "v": "8deedada4978953cc405f26856dd0594"
+                    },
+                    {
+                        "k": "4",
+                        "v": "6b8dad78e5692b8a650ef4055aa1401a"
+                    },
+                    {
+                        "k": "6",
+                        "v": "aabafbbafbb31f08a130b1ea1a68a0b0"
+                    },
+                    {
+                        "k": "7",
+                        "v": "2278b19abc93ab72b510b62ef4da0b36"
+                    },
+                    {
+                        "k": "8",
+                        "v": "ce742286462cbe04b39e31fe858e035a"
+                    },
+                    {
+                        "k": "9",
+                        "v": "efef222c72cdeb1373919f80f51ab809"
+                    },
+                    {
+                        "k": "11",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "12",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "13",
+                        "v": "33a67d34b6807e8d7cbd43a3d1930f5e"
+                    },
+                    {
+                        "k": "14",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "15",
+                        "v": "af2715bddfbca2d4e72f470d285c5010"
+                    },
+                    {
+                        "k": "16",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "17",
+                        "v": "960a06e2a80d46091b8215f96b633951"
+                    },
+                    {
+                        "k": "19",
+                        "v": "bdf5de95e84ea35f0830c0815025b763"
+                    },
+                    {
+                        "k": "21",
+                        "v": "3acd9c68c33b25e370568c8e3ca488c7"
+                    },
+                    {
+                        "k": "22",
+                        "v": "f3596763084690fc32508650e70ad259"
+                    },
+                    {
+                        "k": "23",
+                        "v": "888d72629c8423d2383828c8597076ba"
+                    },
+                    {
+                        "k": "24",
+                        "v": "20115fd14eed1e3838654e47707178bf"
+                    },
+                    {
+                        "k": "25",
+                        "v": "2603ca2f583d31c1f9e4a0976f922d9f"
+                    },
+                    {
+                        "k": "26",
+                        "v": "c33fb53f88f70e77c7d1929b1520ff83"
+                    },
+                    {
+                        "k": "27",
+                        "v": "94607bc36155aab692756dc77e7e6559"
+                    },
+                    {
+                        "k": "28",
+                        "v": "2603ca2f583d31c1f9e4a0976f922d9f"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2020-04-16T13:21:43",
+                        "name": "Public",
+                        "hash": "1a7221815e304665b277ca192872d73a",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-16T13:28:31",
+                                "name": "Materials",
+                                "hash": "6d067037b85c2e70367f15714f6214ac",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-16T13:28:31",
+                                        "name": "BackgroundMat.lsmat",
+                                        "hash": "efef222c72cdeb1373919f80f51ab809",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-16T13:11:00",
+                                        "name": "Spectacles Depth.lsmat",
+                                        "hash": "20115fd14eed1e3838654e47707178bf",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-16T13:20:09",
+                                        "name": "Oil Paint.lsmat",
+                                        "hash": "94607bc36155aab692756dc77e7e6559",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "TileMat.lsmat",
+                                        "hash": "aabafbbafbb31f08a130b1ea1a68a0b0",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-16T13:17:47",
+                                        "name": "kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760.png",
+                                        "hash": "2603ca2f583d31c1f9e4a0976f922d9f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-16T13:28:14",
+                                        "name": "FillMat.lsmat",
+                                        "hash": "ce742286462cbe04b39e31fe858e035a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "TileScrollingMat.lsmat",
+                                        "hash": "2278b19abc93ab72b510b62ef4da0b36",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:00:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-16T12:59:59",
+                                "name": "WhatsApp Audio 2020-04-16 at 12.mp3",
+                                "hash": "f3596763084690fc32508650e70ad259",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-16T12:51:58",
+                                "name": "Example Textures [REMOVE_ME]",
+                                "hash": "13fb7bd30f63610fe58616705614b382",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "old_paper_post_effect.png",
+                                        "hash": "3acd9c68c33b25e370568c8e3ca488c7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "space_background.png",
+                                        "hash": "87daba2e83cda8b89532e73ab3b19542",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-04-16T12:50:08",
+                                        "name": "heart.png",
+                                        "hash": "6b8dad78e5692b8a650ef4055aa1401a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:00:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-16T12:44:29",
+                                "name": "Default Textures",
+                                "hash": "76f03cc87c33512dbab8bb5f9e84d0ef",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "echopark_diff.png",
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "empty.png",
+                                        "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "echopark_spec.png",
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "MaterialParams.png",
+                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:01:06",
+                                        "name": "white.png",
+                                        "hash": "960a06e2a80d46091b8215f96b633951",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:00:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-04-16T12:44:29",
+                                "name": "Scripts",
+                                "hash": "840e00e972259a2296fe27c86d8f3b8d",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:00:51",
+                                        "name": "SegmentationController.js",
+                                        "hash": "bdf5de95e84ea35f0830c0815025b763",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-02-01T00:00:51",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-04-16T13:17:47",
+                                "name": "kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760.png",
+                                "hash": "2603ca2f583d31c1f9e4a0976f922d9f",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-02-01T00:00:51",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": ""
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Example Textures [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "space_background",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "76",
+                                "dependency": "0",
+                                "uid": "1536692380004191:12977",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "heart",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "93",
+                                "dependency": "0",
+                                "uid": "1536694566851597:18126",
+                                "fileId": "10",
+                                "originalId": "30",
+                                "publicId": "4",
+                                "source": "\/Users\/shubham\/Downloads\/7-2-virus-high-quality-png.png",
+                                "additional": ""
+                            },
+                            {
+                                "name": "old_paper_post_effect",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "161",
+                                "dependency": "0",
+                                "uid": "1564444797948882:5329",
+                                "fileId": "20",
+                                "originalId": "18446744073709551615",
+                                "publicId": "21",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "5",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "TileMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "157",
+                                "dependency": "0",
+                                "uid": "1539126337825344:3581",
+                                "fileId": "12",
+                                "originalId": "26",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "TileScrollingMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "158",
+                                "dependency": "0",
+                                "uid": "1539126341853514:3608",
+                                "fileId": "13",
+                                "originalId": "27",
+                                "publicId": "7",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FillMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "159",
+                                "dependency": "0",
+                                "uid": "1539126346682103:3631",
+                                "fileId": "14",
+                                "originalId": "28",
+                                "publicId": "8",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "BackgroundMat",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "160",
+                                "dependency": "0",
+                                "uid": "1539126348212916:3665",
+                                "fileId": "15",
+                                "originalId": "29",
+                                "publicId": "9",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Spectacles Depth",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "165",
+                                "dependency": "0",
+                                "uid": "1587022681639244:17867",
+                                "fileId": "34",
+                                "originalId": "35",
+                                "publicId": "24",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Oil Paint",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "168",
+                                "dependency": "0",
+                                "uid": "1587023408100922:27742",
+                                "fileId": "40",
+                                "originalId": "41",
+                                "publicId": "27",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "169",
+                                "dependency": "0",
+                                "uid": "1587023478053981:29973",
+                                "fileId": "42",
+                                "originalId": "43",
+                                "publicId": "28",
+                                "source": "\/Users\/shubham\/Downloads\/kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760.81499403152730415159.png",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Default Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "10",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "8",
+                                "dependency": "0",
+                                "uid": "1517446348230286:84828",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "9",
+                                "dependency": "0",
+                                "uid": "1517446348234137:84840",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "17",
+                                "dependency": "0",
+                                "uid": "1534543033794497:2027",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "empty",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "30",
+                                "dependency": "0",
+                                "uid": "1534548413451520:38273",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "13",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "81",
+                                "dependency": "0",
+                                "uid": "1536693201317919:71139",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "82",
+                                "dependency": "0",
+                                "uid": "1536693201320484:71151",
+                                "fileId": "8",
+                                "originalId": "18446744073709551615",
+                                "publicId": "15",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "83",
+                                "dependency": "0",
+                                "uid": "1536693201323863:71163",
+                                "fileId": "9",
+                                "originalId": "18446744073709551615",
+                                "publicId": "16",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "132",
+                                "dependency": "0",
+                                "uid": "1536866643977081:319832",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "17",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "SegmentationController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "uid": "1534543284768020:20801",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "19",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Segmentation Texture [EDIT_ME]",
+                        "type": "1",
+                        "subtype": "14",
+                        "resourceId": "162",
+                        "dependency": "0",
+                        "uid": "1571785356605059:504223",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "18446744073709551615",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "WhatsApp Audio 2020-04-16 at 12",
+                        "type": "5",
+                        "subtype": "0",
+                        "resourceId": "163",
+                        "dependency": "0",
+                        "uid": "1587022215637181:8789",
+                        "fileId": "31",
+                        "originalId": "18446744073709551615",
+                        "publicId": "22",
+                        "source": "\/Users\/shubham\/Downloads\/WhatsApp Audio 2020-04-16 at 12.57.02 PM (online-audio-converter.com).mp3",
+                        "additional": ""
+                    },
+                    {
+                        "name": "kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "166",
+                        "dependency": "0",
+                        "uid": "1587023345186520:25452",
+                        "fileId": "36",
+                        "originalId": "37",
+                        "publicId": "25",
+                        "source": "\/Users\/shubham\/Downloads\/kisspng-3m-particulate-respirator-type-n95-particulates-me-mask-5b08cfd7900760.81499403152730415159.png",
+                        "additional": ""
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
